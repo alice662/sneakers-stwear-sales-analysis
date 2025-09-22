@@ -1,0 +1,33 @@
+# Sneakers & Streetwear Sales Analysis – Step by Step
+
+This document explains the full process of the sales analysis with screenshots, from raw data to the final dashboard.
+
+---
+
+## Step 1: Raw Data
+The dataset contained product sales information including product type, brand, gender, category, country, price, quantity, and payment mode.  
+![Raw Data](sneakers_stwear_raw.png)
+
+---
+
+## Step 2: Data Cleaning
+The data was cleaned by removing duplicates, formatting columns, and preparing the dataset for pivot analysis.  
+![Cleaned Data](sneakers_stwear_clean.png)
+
+---
+
+## Step 3: Pivot Tables
+Pivot tables were created to analyze monthly revenue, category mix, sales by gender, and revenue by payment method.  
+![Pivot Tables](pivot tables.png)
+
+---
+
+## Step 4: Dashboard
+Finally, an interactive dashboard was built to summarize the findings.  
+It shows revenue trends, product type and gender analysis, units sold by category, payment insights, and revenue mix.  
+![Dashboard](Dashboard.png)
+
+---
+
+👉 The complete project description is available in the [README.md](README.md).
+
