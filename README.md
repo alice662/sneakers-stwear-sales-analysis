@@ -63,7 +63,3 @@ Recommendations:
 * Marketing focus: Ads should highlight Nike and Adidas, but also include premium brands like Off-White and Essentials.
 * Payment support: Give small discounts or loyalty points for Wallet and Card payments, as these are most used.
 * Seasonal actions: Run special campaigns in weak months like April to push sales.
-
-* Marketing focus: Ads should highlight Nike and Adidas, but also include premium brands like Off-White and Essentials.
-* Payment support: Give small discounts or loyalty points for Wallet and Card payments, as these are most used.
-* Seasonal actions: Run special campaigns in weak months like April to push sales.
